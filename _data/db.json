@@ -1,0 +1,76 @@
+{
+  "appointments": [
+    {
+      "_id": "69bpxql4zph",
+      "name": "Darren Animo",
+      "phoneNumber": "19166477953",
+      "notification": "2",
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-16T19:28:00.000Z"
+    },
+    {
+      "_id": "58p278hy8ma",
+      "name": "Darren Animo",
+      "phoneNumber": "19166477953",
+      "notification": "2",
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-16T19:28:00.000Z"
+    },
+    {
+      "_id": "pmtgrdga1pk",
+      "name": "Darren Animo",
+      "phoneNumber": "19166477953",
+      "notification": 2,
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-16T07:29:00.000Z"
+    },
+    {
+      "_id": "dhguez8qi3e",
+      "name": "Darren Animo",
+      "phoneNumber": "19166477953",
+      "notification": "2",
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-19T08:39:00.000Z"
+    },
+    {
+      "_id": "h62qsncpq17",
+      "name": "Darren Animo",
+      "phoneNumber": "19166477953",
+      "notification": "2",
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-19T08:39:00.000Z"
+    },
+    {
+      "_id": "bfhkm4fimxf",
+      "name": "Ahbirup Dutta",
+      "phoneNumber": "19727541499",
+      "notification": 2,
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-16T19:39:00.000Z"
+    },
+    {
+      "_id": "02z4d6sx5fr8",
+      "name": "James Chiar",
+      "phoneNumber": "15103663704",
+      "notification": 2,
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-16T19:44:00.000Z"
+    },
+    {
+      "_id": "t95qnkjwvk",
+      "name": "Darren Animo",
+      "phoneNumber": "19166477953",
+      "notification": 2,
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-19T08:40:00.000Z"
+    },
+    {
+      "_id": "9sc7ynh8j1o",
+      "name": "Darren Animo",
+      "phoneNumber": "19166477953",
+      "notification": 2,
+      "timeZone": "America/Los_Angeles",
+      "time": "2022-08-19T08:41:00.000Z"
+    }
+  ]
+}
